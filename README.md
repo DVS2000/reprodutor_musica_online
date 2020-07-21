@@ -1,8 +1,7 @@
 # Reprodutor de Música On-line
 
-Feito com Flutter Web
 
-## Getting Started
+## Feito com Flutter Web
 
 This project is a starting point for a Flutter application.
 
